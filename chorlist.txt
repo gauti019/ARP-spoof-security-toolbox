@@ -1,0 +1,3 @@
+Address                  HWtype  HWaddress           Flags Mask            Iface
+edge-star-mini-shv-01-b          (incomplete)                              enp4s0f1
+gateway                  ether   aa:0a:99:36:9b:6d   C                     enp0s20u1
